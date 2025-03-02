@@ -1,3 +1,6 @@
+git add requirements.txt
+git commit -m "Added requirements.txt"
+git push origin main
 python-telegram-bot
 requests
 psycopg2
